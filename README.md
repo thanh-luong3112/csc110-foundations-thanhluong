@@ -1,4 +1,6 @@
-# CSC110 Final Activities | Foundations Path
+# CSC110 Learning by Crafting – Thanh Luong
+Homework topic: Lists (Weekly Spending Tracker)
+In-class activity topic: Functions (print vs. return)
 
 The **Foundations** path ends with two individual components: a _final examination_ and a _Learning by Crafting_ activity. 
 
